@@ -2,7 +2,7 @@ class Solution {
     fun isAnagram(s: String, t: String): Boolean {
         if (s.length != t.length) return false
 
-        val array = IntArray(26) {0}
+        val array = IntArray(26)
         for (i in s.indices){
             val posForS = s[i].code - 97
             val posForT = t[i].code - 97
