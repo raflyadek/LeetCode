@@ -1,14 +1,16 @@
 func twoSum(nums []int, target int) []int {
-	//target 9 so in the nums we search what index that equal 9 if we sum 
-	result := make(map[int]int)
-
-	for i, num := range nums {
-		diff := target - num
-		// Check if the difference already exists in the map
-		if idx, found := result[diff]; found {
-			return []int{i, idx}
-		}
-		result[num]=i
-	}
-	return nil
+    result := make([]int, 0, 0)
+    j := len(nums)-1
+    for i := 0; i < len(nums); i++ {
+        if i == j && j > 0 {
+            j -= 1
+            i = 0
+        }
+        total := nums[i] + nums[j]
+        if total == target {
+            result = append(result, i, j)
+            return result
+        }
+    }
+    return []int{}
 }
