@@ -1,5 +1,6 @@
 func findTheDifference(s string, t string) byte {
     res := 0
+    //ALL HAIL XOR
     for i := 0; i < len(s); i++ {
         res = res ^ int(s[i])
     }
