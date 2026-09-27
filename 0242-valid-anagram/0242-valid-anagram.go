@@ -2,19 +2,18 @@ func isAnagram(s string, t string) bool {
     if len(s) != len(t) {
         return false
     }
-    mapLetter := make(map[byte]int)
+    
+    mapStringS := make(map[byte]int)
+    mapStringT := make(map[byte]int)
     for i := 0; i < len(s); i++ {
-        mapLetter[s[i]]++
-    }
-    for i := 0; i < len(t); i++ {
-        mapLetter[t[i]]--
+        mapStringS[s[i]]++
+        mapStringT[t[i]]++
     }
 
-    for _, v := range mapLetter {
-        if v > 0 {
+    for k, v := range mapStringS {
+        if v != mapStringT[k] {
             return false
         }
     }
-
     return true
 }
