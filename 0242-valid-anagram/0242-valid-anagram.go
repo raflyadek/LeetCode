@@ -2,16 +2,12 @@ func isAnagram(s string, t string) bool {
     if len(s) != len(t) {
         return false
     }
-    
-    mapStringS := make(map[byte]int)
-    mapStringT := make(map[byte]int)
+    runeS := []rune(s)
+    runeT := []rune(t)
+    slices.Sort(runeS)
+    slices.Sort(runeT)
     for i := 0; i < len(s); i++ {
-        mapStringS[s[i]]++
-        mapStringT[t[i]]++
-    }
-
-    for k, v := range mapStringS {
-        if v != mapStringT[k] {
+        if runeS[i] != runeT[i] {
             return false
         }
     }
