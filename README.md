@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/raflyadek/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raflyadek/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/raflyadek/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/raflyadek/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/raflyadek/LeetCode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/raflyadek/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/raflyadek/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
