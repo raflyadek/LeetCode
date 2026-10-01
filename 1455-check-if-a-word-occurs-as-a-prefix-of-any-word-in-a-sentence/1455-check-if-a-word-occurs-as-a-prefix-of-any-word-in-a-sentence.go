@@ -23,11 +23,12 @@ func isPrefixOfWord(sentence string, searchWord string) int {
             continue
         }
         if tempArr[i][j] == searchWord[k] {
-            if k == len(searchWord) - 1 {
-                return i + 1
-            }
+            
             j++
             k++ 
+            if k == len(searchWord) {
+                return i + 1
+            }
         } else {
             i++
             j = 0
