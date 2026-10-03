@@ -1,12 +1,17 @@
 func singleNumber(nums []int) int {
-    mapNum := make(map[int]int) 
-    for i := 0; i < len(nums); i++ {
-        mapNum[nums[i]]++
+    slices.Sort(nums)
+    //edge case 
+    if len(nums) == 1 {
+        return nums[0]
     }
-    
-    for k, v := range mapNum {
-        if v == 1 {
-            return k
+    for i := 1; i < len(nums); i++ {
+        if nums[i] != nums[i-1] {
+            return nums[i-1]
+        } else {
+            i += 1
+            if i == len(nums) - 1 {
+                return nums[i]
+            }
         }
     }
     return 0
