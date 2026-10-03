@@ -1,12 +1,10 @@
 func findTheDifference(s string, t string) byte {
-    res := 0
-    //ALL HAIL XOR
-    for i := 0; i < len(s); i++ {
-        res = res ^ int(s[i])
-    }
-
+    var res byte
     for i := 0; i < len(t); i++ {
-        res = res ^ int(t[i])
+        res ^= t[i]
     }
-    return byte(res)
+    for i := 0; i < len(s); i++ {
+        res ^= s[i]
+    }
+    return res
 }
