@@ -1,13 +1,10 @@
 func searchInsert(nums []int, target int) int {
-    lastIndex := len(nums)-1
-    if nums[lastIndex] < target {
-        return lastIndex+1
+    //edge case
+    if nums[len(nums)-1] < target {
+        return len(nums)
     }
     for i := 0; i < len(nums); i++ {
-        if nums[i] > target {
-            return i 
-        }
-        if nums[i] == target {
+        if nums[i] > target || nums[i] == target {
             return i
         }
     }
