@@ -2,15 +2,11 @@ func majorityElement(nums []int) int {
     if len(nums) == 1 {
         return nums[0]
     }
+    mapN := make(map[int]int)
     mid := len(nums)/2
-    counter := 0
-    slices.Sort(nums)
     for i := 0; i < len(nums); i++ {
-        counter++
-        if nums[i+1] != nums[i] {
-            counter = 0
-        }
-        if counter >= mid {
+        mapN[nums[i]]++
+        if mapN[nums[i]] >= mid+1 {
             return nums[i]
         }
     }
