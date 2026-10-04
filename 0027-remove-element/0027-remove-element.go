@@ -6,5 +6,6 @@ func removeElement(nums []int, val int) int {
             result++
         }
     }
+
     return result
 }
