@@ -1,18 +1,14 @@
 func intersection(nums1 []int, nums2 []int) []int {
-    result := make([]int,0,0)
-    map1 := make(map[int]int)
-    map2 := make(map[int]int)
-    for i := 0; i < len(nums1); i++ {
-        map1[nums1[i]]++
+    mapNum := make(map[int]bool)
+    res := make([]int,0)
+    for i := 0; i <len(nums1); i++ {
+        mapNum[nums1[i]] = true
     }
-    for j := 0; j < len(nums2); j++ {
-        map2[nums2[j]]++
-    }
-
-    for k, _ := range map1 {
-        if _, found := map2[k]; found {
-            result = append(result, k)
+    for i := 0; i <len(nums2); i++ {
+        if mapNum[nums2[i]] {
+            mapNum[nums2[i]] = false
+            res = append(res, nums2[i])
         }
     }
-    return result
+    return res
 }
