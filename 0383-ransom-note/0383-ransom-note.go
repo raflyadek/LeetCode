@@ -1,17 +1,17 @@
 func canConstruct(ransomNote string, magazine string) bool {
-    mapRansom := make(map[rune]int)
-    for _, v := range ransomNote {
-        mapRansom[v]++
+    mapMag := make(map[byte]int)
+    for i := 0; i < len(magazine); i++ {
+        mapMag[magazine[i]]++
     }
-
-    for _, v := range magazine {
-        mapRansom[v]--
-    }
-    for _, v:= range mapRansom {
-        if v > 0 {
+    for i := 0; i < len(ransomNote); i++ {
+        val, ok := mapMag[ransomNote[i]]
+        if !ok {
             return false
         }
+        if val == 0 {
+            return false
+        }
+        mapMag[ransomNote[i]]--
     }
-
     return true
 }
