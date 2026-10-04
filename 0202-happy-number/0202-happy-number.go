@@ -1,17 +1,19 @@
 func isHappy(n int) bool {
-    mapNum := make(map[int]int)
+    mapN := make(map[int]bool)
     for n != 1 {
-    sum := 0
+        temp := 0
         for n > 0 {
-            digit := n%10
-            sum += digit * digit
-            n /= 10  
+            //get last digit
+            tempMod := n % 10
+            temp += tempMod * tempMod
+            //remove last digit
+            n /= 10
         }
-        n = sum
-        mapNum[n]++
-        if mapNum[n] > 1 {
+        n = temp
+        if mapN[temp] {
             return false
         }
+        mapN[temp] = true
     }
     return true
 }
