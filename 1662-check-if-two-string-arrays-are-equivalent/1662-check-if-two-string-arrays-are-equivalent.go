@@ -4,8 +4,9 @@ func arrayStringsAreEqual(word1 []string, word2 []string) bool {
     for i := 0; i < len(word1); i++ {
         temp1 += string(word1[i])
     }
-    for j := 0; j < len(word2); j++ {
-        temp2 += string(word2[j])
+
+    for i := 0; i < len(word2); i++ {
+        temp2 += string(word2[i])
     }
     return temp1 == temp2
 }
