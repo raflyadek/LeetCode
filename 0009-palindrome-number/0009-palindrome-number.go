@@ -1,11 +1,13 @@
 func isPalindrome(x int) bool {
-    tempX := x
-    res := 0
-    for tempX > 0 {
-        //
-        res = res * 10 + tempX % 10
-        //remove the last digit
-        tempX /= 10
+    if x < 0 {
+        return false
     }
-    return res == x
+    temp := x
+    res := 0
+    for x > 0 {
+        s := x % 10
+        res = res * 10 + s
+        x /= 10
+    }
+    return temp == res
 }
