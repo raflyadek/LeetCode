@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/raflyadek/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/raflyadek/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/raflyadek/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/raflyadek/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/raflyadek/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/raflyadek/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/raflyadek/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/raflyadek/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/raflyadek/LeetCode/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/raflyadek/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/raflyadek/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Sorting
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/raflyadek/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raflyadek/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/raflyadek/LeetCode/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/raflyadek/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/raflyadek/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/raflyadek/LeetCode/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/raflyadek/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/raflyadek/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -126,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raflyadek/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/raflyadek/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
