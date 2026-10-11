@@ -8,16 +8,16 @@
  */
 
 func guessNumber(n int) int {
-    left, right := 1, n
+    left, right := 0, n
     for left <= right {
         mid := (left+right)/2
-        res := guess(mid)
-        if res == 0 {
+        pick := guess(mid)
+        if pick == 0 {
             return mid
-        } else if res == 1 {
-            left = mid+1
+        } else if pick == -1 {
+            right = mid - 1
         } else {
-            right = mid-1
+            left = mid + 1
         }
     }
     return -1
