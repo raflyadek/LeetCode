@@ -4,17 +4,12 @@ func findLHS(nums []int) int {
         mapNum[v]++
     }
     temp, high := 0, 0
-    for k, v := range mapNum {
-        temp += v
+    for k, v := range mapNum {        
         if val, found := mapNum[k+1]; found {
-            temp += val
+            temp += val + v
             if temp > high {
                 high = temp
-                temp = 0
-            } else {
-                temp = 0
             }
-        } else {
             temp = 0
         }
     }
