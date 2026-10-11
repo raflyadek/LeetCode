@@ -3,19 +3,19 @@ func findLHS(nums []int) int {
     for _, v := range nums {
         mapNum[v]++
     }
-
-    tempK, counter, high := 0, 0, 0
+    temp, high := 0, 0
     for k, v := range mapNum {
-        tempK = k
-        counter = v
-        if value, found := mapNum[tempK+1]; found {
-            counter += value
-            if counter > high {
-                high = counter
+        temp += v
+        if val, found := mapNum[k+1]; found {
+            temp += val
+            if temp > high {
+                high = temp
+                temp = 0
+            } else {
+                temp = 0
             }
-            counter = 0
         } else {
-            counter = 0
+            temp = 0
         }
     }
     return high
