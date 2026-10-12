@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/raflyadek/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/raflyadek/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/raflyadek/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/raflyadek/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/raflyadek/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/raflyadek/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/raflyadek/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/raflyadek/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/raflyadek/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/raflyadek/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/raflyadek/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/raflyadek/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
