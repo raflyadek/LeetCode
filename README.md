@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/raflyadek/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/raflyadek/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/raflyadek/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/raflyadek/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/raflyadek/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/raflyadek/LeetCode/tree/master/0389-find-the-difference) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/raflyadek/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/raflyadek/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/raflyadek/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/raflyadek/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/raflyadek/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/raflyadek/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/raflyadek/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raflyadek/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
