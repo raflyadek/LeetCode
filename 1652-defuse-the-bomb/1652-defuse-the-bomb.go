@@ -14,7 +14,6 @@ func decrypt(code []int, k int) []int {
 				tempPositive = 0
 			}
 			sum += code[tempPositive]
-			fmt.Printf("temp: %d\n", code[tempPositive])
 			tempPositive++
 			right--
 			if right == 0 {
