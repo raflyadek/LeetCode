@@ -1,17 +1,16 @@
 func findMaxK(nums []int) int {
-    result := 0
-    slices.Sort(nums)
-    mapN := make(map[int]bool)
-    for i := len(nums)-1; i >= 0; i-- {
-        mapN[nums[i]] = true
-        if mapN[nums[i]*-1] {
-            if nums[i]*-1 > result {
-                result = nums[i]*-1
+    mapNum := make(map[int]bool)
+    result := -1
+    for _, v := range nums {
+        mapNum[v] = true
+    }
+
+    for k, _ := range mapNum {
+        if k > 0 && k > result {
+            if mapNum[-k] {
+                result = k
             }
         }
     }
-    if result == 0 {
-        result = -1
-    }
-    return result
+    return result 
 }
