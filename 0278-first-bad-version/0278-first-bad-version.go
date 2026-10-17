@@ -8,18 +8,16 @@
 
 func firstBadVersion(n int) int {
     res := n
-    left, right := 0, n 
+    left, right := 0, n
     for left <= right {
         mid := (left+right)/2
         bad := isBadVersion(mid)
         if bad {
-            if mid < res {
-                res = mid
-            }
-            right = mid - 1
+            right = mid -1
+            res = mid 
         } else {
             left = mid + 1
         }
-    }    
+    }
     return res
 }
