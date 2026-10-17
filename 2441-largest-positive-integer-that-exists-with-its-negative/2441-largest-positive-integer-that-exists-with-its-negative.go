@@ -6,10 +6,8 @@ func findMaxK(nums []int) int {
     }
 
     for k, _ := range mapNum {
-        if k > 0 && k > result {
-            if mapNum[-k] {
-                result = k
-            }
+        if mapNum[-k] && k > result {
+            result = k
         }
     }
     return result 
