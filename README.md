@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/raflyadek/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/raflyadek/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/raflyadek/LeetCode/tree/master/0035-search-insert-position) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raflyadek/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/raflyadek/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/raflyadek/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raflyadek/LeetCode/tree/master/0217-contains-duplicate) |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raflyadek/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/raflyadek/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
