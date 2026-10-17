@@ -8,11 +8,12 @@ func countGoodSubstrings(s string) int {
             mid++
             right++
             res++
-            continue
-        }
+        } else {
+
         left++
             mid++
-            right++
+       right++
+        }
 
     }
     return res
