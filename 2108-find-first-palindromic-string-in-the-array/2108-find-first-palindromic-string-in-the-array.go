@@ -8,12 +8,12 @@ func firstPalindrome(words []string) string {
         }
         for j := 0; j < len(words[i])/2; j++ {
             if words[i][j] != words[i][l] {
+                flag = false
                 break
-            } 
-            if j == len(words[i])/2 - 1 {
+            } else {
                 flag = true
+                l--
             }
-            l--
         }
         if flag == true {
             return words[i]
