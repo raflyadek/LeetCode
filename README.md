@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raflyadek/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/raflyadek/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/raflyadek/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/raflyadek/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/raflyadek/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
