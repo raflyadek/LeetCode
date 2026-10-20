@@ -1,14 +1,8 @@
 func runningSum(nums []int) []int {
     numsZ := make([]int, len(nums))
-    right := 0
-    for right < len(nums) {
-        left, sum := 0, 0
-        for left <= right {
-            sum += nums[left]
-            numsZ[right] = sum
-            left++
-        }
-        right++
+    numsZ[0] = nums[0]
+    for i := 1; i < len(nums); i++ {
+        numsZ[i] = numsZ[i-1] + nums[i]
     }
     return numsZ
 }
