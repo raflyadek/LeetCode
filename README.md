@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raflyadek/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3492-maximum-containers-on-a-ship](https://github.com/raflyadek/LeetCode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3516-find-closest-person](https://github.com/raflyadek/LeetCode/tree/master/3516-find-closest-person) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raflyadek/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
 | ------- |
