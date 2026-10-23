@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/raflyadek/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/raflyadek/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/raflyadek/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0977-squares-of-a-sorted-array](https://github.com/raflyadek/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/raflyadek/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raflyadek/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raflyadek/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/raflyadek/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/raflyadek/LeetCode/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/raflyadek/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/raflyadek/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raflyadek/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raflyadek/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raflyadek/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/raflyadek/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/raflyadek/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/raflyadek/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/raflyadek/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/raflyadek/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raflyadek/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/raflyadek/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
