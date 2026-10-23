@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3492-maximum-containers-on-a-ship](https://github.com/raflyadek/LeetCode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3516-find-closest-person](https://github.com/raflyadek/LeetCode/tree/master/3516-find-closest-person) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raflyadek/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/raflyadek/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
