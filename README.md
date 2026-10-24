@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/raflyadek/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/raflyadek/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/raflyadek/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -264,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/raflyadek/LeetCode/tree/master/2413-smallest-even-multiple) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/raflyadek/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
