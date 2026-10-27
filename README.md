@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3146-permutation-difference-between-two-strings](https://github.com/raflyadek/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3856-trim-trailing-vowels](https://github.com/raflyadek/LeetCode/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/raflyadek/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
+| [3931-check-adjacent-digit-differences](https://github.com/raflyadek/LeetCode/tree/master/3931-check-adjacent-digit-differences) |
 ## Binary Search
 |  |
 | ------- |
