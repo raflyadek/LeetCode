@@ -1,5 +1,5 @@
 func findIndices(nums []int, indexDifference int, valueDifference int) []int {
-    res := make([]int, 2)
+    res := []int{-1,-1}
     // left, right := 0, 0 
     // for left < len(nums) {
     //     if abs(left-right) >= indexDifference && abs(nums[left]-nums[right]) >= valueDifference {
@@ -22,8 +22,6 @@ func findIndices(nums []int, indexDifference int, valueDifference int) []int {
             }
         }
     }
-    res[0]=-1
-    res[1]=-1
     return res
 }
 
