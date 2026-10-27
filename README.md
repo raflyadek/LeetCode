@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/raflyadek/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/raflyadek/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/raflyadek/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/raflyadek/LeetCode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3028-ant-on-the-boundary](https://github.com/raflyadek/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/raflyadek/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/raflyadek/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/raflyadek/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raflyadek/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/raflyadek/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/raflyadek/LeetCode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/raflyadek/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Floyd's Cycle Finding Algorithm
 |  |
