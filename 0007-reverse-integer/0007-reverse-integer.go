@@ -1,11 +1,11 @@
 func reverse(x int) int {
     //is it cheating using atoi/itoa???hm
-    str := strconv.Itoa(x)
+    //just times -1 first 
     num := 0
     limitPstv := 2 << 30
     limitNgtv := -2 << 30
     if x < 0 {
-        numtemp, _ := strconv.Atoi(str[1:])
+        numtemp := x * -1
         for numtemp > 0 {
             s := numtemp%10
             num = num * 10 + s
