@@ -5,9 +5,8 @@ func isPalindrome(x int) bool {
     temp := x
     res := 0
     for x > 0 {
-        s := x % 10
-        res = res * 10 + s
+        res = res * 10 + (x%10)
         x /= 10
     }
-    return temp == res
+    return res == temp 
 }
