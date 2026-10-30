@@ -1,4 +1,5 @@
 func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
+    //FIRST EVER HARD LETSGOO
     merged := make([]int, 0)
     i, j := 0, 0
     for i < len(nums1) && j < len(nums2) {
