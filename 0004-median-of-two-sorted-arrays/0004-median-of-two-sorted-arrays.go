@@ -9,11 +9,11 @@ func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
     }
     var res float64
     slices.Sort(merged)
-    mid := len(merged)/2 - 1
+    mid := len(merged)/2 
     if len(merged) % 2 == 0 {
-        res += (float64(merged[mid]) + float64(merged[mid+1]) )/ 2
+        res += (float64(merged[mid]) + float64(merged[mid-1]) )/ 2
     } else {
-        res += float64(merged[mid+1])
+        res += float64(merged[mid])
     }
     return res
 }
