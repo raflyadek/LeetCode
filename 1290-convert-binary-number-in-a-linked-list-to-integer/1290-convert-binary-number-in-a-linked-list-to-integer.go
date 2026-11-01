@@ -6,26 +6,21 @@
  * }
  */
 func getDecimalValue(head *ListNode) int {
-    if head == nil {
-        return 0
-    }
-    result := 0
+    res := 0
     mul := 1
-    //reverse first?
-    curr := head
-    var prev *ListNode
-    for curr != nil {
-        next := curr.Next
-        curr.Next = prev
-        prev = curr
-        curr = next
+    //reverse first
+    var prev *ListNode 
+    for head != nil {
+        next := head.Next
+        head.Next = prev
+        prev = head
+        head = next
     }
-
     for prev != nil {
-        t := prev.Val * mul
-        result += t
+        res += prev.Val * mul
         mul *= 2
         prev = prev.Next
     }
-    return result
+
+    return res
 }
