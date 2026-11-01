@@ -9,13 +9,15 @@ func removeElements(head *ListNode, val int) *ListNode {
     for head != nil && head.Val == val {
         head = head.Next
     }
-    copy := head
-    //becaue we can only manipulate the next then the condition should be fufilled these 2
-    for copy != nil && copy.Next != nil {
-        if copy.Next.Val == val {
-            copy.Next = copy.Next.Next
+    if head == nil {
+        return nil
+    }
+    temp := head
+    for temp.Next != nil {
+        if temp.Next.Val == val {
+            temp.Next = temp.Next.Next
         } else {
-            copy = copy.Next
+            temp = temp.Next
         }
     }
     //return head because we just manipulate head wth another copy
