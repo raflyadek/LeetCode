@@ -1,6 +1,10 @@
 func fib(n int) int {
-    if n <= 1 {
-        return n
+    a, b := 0, 1
+    //b will be a number before a
+    for n > 0 {
+        a, b = a + b, a
+        n--
     }
-    return fib(n-1) + fib(n-2)
+
+    return a
 }
