@@ -11,7 +11,7 @@ func countStudents(students []int, sandwiches []int) int {
             sandwiches = sandwiches[1:]
             n--
         } else {
-            if stuck > temp*2 {
+            if stuck > temp{
                 break
             }
             front := students[0]
