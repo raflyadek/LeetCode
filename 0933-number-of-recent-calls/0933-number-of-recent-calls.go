@@ -1,21 +1,22 @@
 type RecentCounter struct {
     counter []int
+    count int
 }
 
 
 func Constructor() RecentCounter {
-    return RecentCounter{[]int{}}
+    return RecentCounter{}
 }
 
 
 func (this *RecentCounter) Ping(t int) int {
     //push to the queue
     this.counter = append(this.counter, t)
-    for len(this.counter) > 0 && t-3000 > this.counter[0] {
-        this.counter = this.counter[1:]
+    for len(this.counter) > 0 && t-3000 > this.counter[this.count] {
+        this.count++
     }
 
-    return len(this.counter)
+    return len(this.counter) - this.count
 }
 
 
