@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/raflyadek/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2169-count-operations-to-obtain-zero](https://github.com/raflyadek/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3028-ant-on-the-boundary](https://github.com/raflyadek/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3842-toggle-light-bulbs](https://github.com/raflyadek/LeetCode/tree/master/3842-toggle-light-bulbs) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/raflyadek/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/raflyadek/LeetCode/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/raflyadek/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/raflyadek/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1816-truncate-sentence](https://github.com/raflyadek/LeetCode/tree/master/1816-truncate-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/raflyadek/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raflyadek/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/raflyadek/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/raflyadek/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Enumeration
 |  |
 | ------- |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/raflyadek/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/raflyadek/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
 | ------- |
