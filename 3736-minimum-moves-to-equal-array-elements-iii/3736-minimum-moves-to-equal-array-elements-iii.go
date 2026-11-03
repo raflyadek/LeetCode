@@ -1,10 +1,5 @@
 func minMoves(nums []int) int {
-    highest := nums[0]
-    for _, v := range nums {
-        if v > highest {
-            highest = v
-        }
-    }
+    highest := slices.Max(nums)
     res := 0
     for _, v := range nums {
         if v < highest {
