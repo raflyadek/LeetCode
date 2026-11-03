@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/raflyadek/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/raflyadek/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/raflyadek/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/raflyadek/LeetCode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/raflyadek/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raflyadek/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/raflyadek/LeetCode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/raflyadek/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
