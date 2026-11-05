@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/raflyadek/LeetCode/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/raflyadek/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/raflyadek/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/raflyadek/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raflyadek/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3492-maximum-containers-on-a-ship](https://github.com/raflyadek/LeetCode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/raflyadek/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/raflyadek/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/raflyadek/LeetCode/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/raflyadek/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/raflyadek/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3856-trim-trailing-vowels](https://github.com/raflyadek/LeetCode/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/raflyadek/LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3931-check-adjacent-digit-differences](https://github.com/raflyadek/LeetCode/tree/master/3931-check-adjacent-digit-differences) |
