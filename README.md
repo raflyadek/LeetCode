@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/raflyadek/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/raflyadek/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/raflyadek/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/raflyadek/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/raflyadek/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/raflyadek/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raflyadek/LeetCode/tree/master/0342-power-of-four) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/raflyadek/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/raflyadek/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/raflyadek/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/raflyadek/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/raflyadek/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/raflyadek/LeetCode/tree/master/0389-find-the-difference) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/raflyadek/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/raflyadek/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/raflyadek/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/raflyadek/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/raflyadek/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raflyadek/LeetCode/tree/master/0342-power-of-four) |
