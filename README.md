@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/raflyadek/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1816-truncate-sentence](https://github.com/raflyadek/LeetCode/tree/master/1816-truncate-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/raflyadek/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2057-smallest-index-with-equal-value](https://github.com/raflyadek/LeetCode/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raflyadek/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raflyadek/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/raflyadek/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
