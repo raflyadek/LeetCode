@@ -1,5 +1,4 @@
 func getFinalState(nums []int, k int, multiplier int) []int {
-    res := nums
     for i := 0; i < k; i++ {
         lowest := nums[0]
         index := 0 
@@ -9,7 +8,7 @@ func getFinalState(nums []int, k int, multiplier int) []int {
                 index = j
             }
         }
-        res[index] = lowest * multiplier
+        nums[index] = lowest * multiplier
     }
-    return res
+    return nums
 }
