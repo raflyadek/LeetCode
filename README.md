@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/raflyadek/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/raflyadek/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/raflyadek/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raflyadek/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2643-row-with-maximum-ones](https://github.com/raflyadek/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2733-neither-minimum-nor-maximum](https://github.com/raflyadek/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raflyadek/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raflyadek/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/raflyadek/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2351-first-letter-to-appear-twice](https://github.com/raflyadek/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raflyadek/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/raflyadek/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/raflyadek/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3019-number-of-changing-keys](https://github.com/raflyadek/LeetCode/tree/master/3019-number-of-changing-keys) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/raflyadek/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raflyadek/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/raflyadek/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raflyadek/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/raflyadek/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/raflyadek/LeetCode/tree/master/3467-transform-array-by-parity) |
 ## Boyer–Moore Majority Vote Algorithm
