@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/raflyadek/LeetCode/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/raflyadek/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/raflyadek/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/raflyadek/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/raflyadek/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raflyadek/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3492-maximum-containers-on-a-ship](https://github.com/raflyadek/LeetCode/tree/master/3492-maximum-containers-on-a-ship) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/raflyadek/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2169-count-operations-to-obtain-zero](https://github.com/raflyadek/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3028-ant-on-the-boundary](https://github.com/raflyadek/LeetCode/tree/master/3028-ant-on-the-boundary) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/raflyadek/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3842-toggle-light-bulbs](https://github.com/raflyadek/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3925-concatenate-array-with-reverse](https://github.com/raflyadek/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Array
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/raflyadek/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/raflyadek/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/raflyadek/LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/raflyadek/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/raflyadek/LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raflyadek/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/raflyadek/LeetCode/tree/master/3467-transform-array-by-parity) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raflyadek/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/raflyadek/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Quicksort
 |  |
 | ------- |
