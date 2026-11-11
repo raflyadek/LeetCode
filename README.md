@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/raflyadek/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/raflyadek/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/raflyadek/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3833-count-dominant-indices](https://github.com/raflyadek/LeetCode/tree/master/3833-count-dominant-indices) |
 | [3842-toggle-light-bulbs](https://github.com/raflyadek/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3861-minimum-capacity-box](https://github.com/raflyadek/LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3925-concatenate-array-with-reverse](https://github.com/raflyadek/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raflyadek/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3833-count-dominant-indices](https://github.com/raflyadek/LeetCode/tree/master/3833-count-dominant-indices) |
 ## Memoization
 |  |
 | ------- |
