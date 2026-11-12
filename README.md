@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/raflyadek/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/raflyadek/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/raflyadek/LeetCode/tree/master/3870-count-commas-in-range) |
+| [3959-check-good-integer](https://github.com/raflyadek/LeetCode/tree/master/3959-check-good-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/raflyadek/LeetCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3842-toggle-light-bulbs](https://github.com/raflyadek/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3925-concatenate-array-with-reverse](https://github.com/raflyadek/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/raflyadek/LeetCode/tree/master/3959-check-good-integer) |
 ## Array
 |  |
 | ------- |
