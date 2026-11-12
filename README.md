@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3842-toggle-light-bulbs](https://github.com/raflyadek/LeetCode/tree/master/3842-toggle-light-bulbs) |
 | [3861-minimum-capacity-box](https://github.com/raflyadek/LeetCode/tree/master/3861-minimum-capacity-box) |
 | [3925-concatenate-array-with-reverse](https://github.com/raflyadek/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
+| [3978-unique-middle-element](https://github.com/raflyadek/LeetCode/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raflyadek/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/raflyadek/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3467-transform-array-by-parity](https://github.com/raflyadek/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3978-unique-middle-element](https://github.com/raflyadek/LeetCode/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
