@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raflyadek/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/raflyadek/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/raflyadek/LeetCode/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [2942-find-words-containing-character](https://github.com/raflyadek/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3028-ant-on-the-boundary](https://github.com/raflyadek/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/raflyadek/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/raflyadek/LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raflyadek/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/raflyadek/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/raflyadek/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2942-find-words-containing-character](https://github.com/raflyadek/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/raflyadek/LeetCode/tree/master/3019-number-of-changing-keys) |
 | [3110-score-of-a-string](https://github.com/raflyadek/LeetCode/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/raflyadek/LeetCode/tree/master/3146-permutation-difference-between-two-strings) |
