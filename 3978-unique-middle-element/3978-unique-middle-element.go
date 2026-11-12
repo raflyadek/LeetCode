@@ -1,16 +1,12 @@
 func isMiddleElementUnique(nums []int) bool {
-    mapN := make(map[int]int)
-    half := len(nums)/2
-    mid := 0
+    half := nums[len(nums)/2]
     for i, v := range nums {
-        mapN[v]++
-        if i == half {
-            mid = v
+        if i == len(nums)/2 {
+            continue
         }
-    }
-    val, _ := mapN[mid]
-    if val > 1 {
-        return false
+        if v == half {
+            return false
+        }
     }
     return true
 }
