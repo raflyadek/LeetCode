@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/raflyadek/LeetCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raflyadek/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2643-row-with-maximum-ones](https://github.com/raflyadek/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [2678-number-of-senior-citizens](https://github.com/raflyadek/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2733-neither-minimum-nor-maximum](https://github.com/raflyadek/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raflyadek/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/raflyadek/LeetCode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/raflyadek/LeetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2351-first-letter-to-appear-twice](https://github.com/raflyadek/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raflyadek/LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2678-number-of-senior-citizens](https://github.com/raflyadek/LeetCode/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/raflyadek/LeetCode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/raflyadek/LeetCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/raflyadek/LeetCode/tree/master/2942-find-words-containing-character) |
