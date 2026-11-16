@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/raflyadek/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/raflyadek/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/raflyadek/LeetCode/tree/master/3870-count-commas-in-range) |
+| [3945-digit-frequency-score](https://github.com/raflyadek/LeetCode/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/raflyadek/LeetCode/tree/master/3959-check-good-integer) |
 ## Bit Manipulation
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/raflyadek/LeetCode/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raflyadek/LeetCode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3842-toggle-light-bulbs](https://github.com/raflyadek/LeetCode/tree/master/3842-toggle-light-bulbs) |
+| [3945-digit-frequency-score](https://github.com/raflyadek/LeetCode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
